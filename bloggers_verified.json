@@ -1,0 +1,42 @@
+[
+  {
+    "name": "نیما کلیک (Nima Click)",
+    "handle": "nima.click",
+    "category": "امنیت سایبری و حریم خصوصی",
+    "role": "آموزش امنیت دیجیتال",
+    "bio": "آگاهی‌رسانی امنیت سایبری، جلوگیری از فیشینگ و حفاظت از اطلاعات شخصی.",
+    "avatar": "avatars/nima.click.jpg"
+  },
+  {
+    "name": "امیررضا مقصودی",
+    "handle": "amirreza_sec",
+    "category": "باگ‌بانتی و اکسپلویت",
+    "role": "شکارچی باگ بین‌المللی",
+    "bio": "کشف آسیب‌پذیری در پلتفرم‌های هکروان و باگ‌کراود و تدریس متدهای امنیتی.",
+    "avatar": "avatars/amirreza_sec.jpg"
+  },
+  {
+    "name": "محمدرضا شکوهی",
+    "handle": "shokoohi_security",
+    "category": "تست نفوذ وب و شبکه",
+    "role": "کارشناس تست نفوذ",
+    "bio": "تست نفوذ سامانه‌های بانکی، ارزیابی امنیتی زیرساخت و کشف روزصفرها.",
+    "avatar": "avatars/shokoohi_security.jpg"
+  },
+  {
+    "name": "سجاد خانی",
+    "handle": "sajjad_reverse",
+    "category": "مهندسی معکوس و بدافزار",
+    "role": "تحلیل‌گر بدافزار",
+    "bio": "تحلیل کدهای مخرب، اکسپلویت‌نویسی و مهندسی معکوس سیستم‌های عامل.",
+    "avatar": "avatars/sajjad_reverse.jpg"
+  },
+  {
+    "name": "پگاه سکیوریتی",
+    "handle": "pegah_infosec",
+    "category": "DevSecOps و کلود",
+    "role": "متخصص امنیت ابری",
+    "bio": "امن‌سازی کانتینرها، پایپ‌لاین‌های CI/CD و زیرساخت‌های کلود.",
+    "avatar": "avatars/pegah_infosec.jpg"
+  }
+]
